@@ -1,2 +1,1 @@
-# MobileTesting
-## Examples of Bug Reports, Checklists and Audits
+## Examples of Bug Reports and Checklists :iphone:
